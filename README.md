@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías Uriel Gluck</h1>
 <h3 align="center">A passionate software engineering student from Buenos Aires, Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [http://matiasurielgluck.herokuapp.com/](http://matiasurielgluck.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://matiasurielgluck.herokuapp.com/](https://matiasurielgluck.netlify.app/)
 
 - 📫 How to reach me **matiasugluck@gmail.com**
 
