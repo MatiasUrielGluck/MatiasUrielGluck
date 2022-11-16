@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías Uriel Gluck</h1>
-<h3 align="center">A passionate software engineering student from Buenos Aires, Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer and Software Engineering student from Buenos Aires, Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://matiasurielgluck.netlify.app/](https://matiasurielgluck.netlify.app/)
 
